@@ -1,0 +1,201 @@
+BATCH 6: ORD 101-120
+
+variabel
+Som förändras eller kan variera, inte konstant.
+
+variable
+föränderlig, växlande, rörlig, instabil, fluktuande
+
+*Vädret i april är mycket variabelt från år till år.*
+*De variabla kostnaderna påverkar företagets lönsamhet.*
+*Hans humör var variabelt och svårt att förutsäga.*
+
+topografi
+Beskrivning och kartläggning av terräng och landskapsformer.
+
+topography
+terrängbeskrivning, terrängkartering, landskapslära, geografi, kartografi
+
+*Topografin i området gjorde byggandet komplicerat.*
+*Kartläggning av öns topografi tog flera månader.*
+*Geologens forskning fokuserade på regional topografi.*
+
+potentat
+Mäktig härskare eller person med stor makt och inflytande.
+
+potentate
+härskare, despot, diktator, maktperson, autokrat
+
+*Den orientaliske potentaten styrde med järnhand.*
+*Olje-potentaten kontrollerade regionen ekonomi.*
+*Den rike potentaten bodde i ett palatslikt hem.*
+
+lid
+Mindre sluttning, backe eller svag höjning i terrängen.
+
+
+mindre backe, sluttning, höjning, kulle, backasluttning
+
+*Koen betade långsamt uppför lid:et mot skogen.*
+*Det lilla huset låg vackert placerat på lid:et.*
+*Från lid:et hade vi utsikt över hela dalen.*
+
+ornera
+Utsmycka, dekorera eller pryda med ornament.
+
+ornament
+utsmycka, dekorera, pryda, försköna, smycka
+
+*Konstnären ornerade taket med gulddetaljer.*
+*Bakeren ornerade tårtan med socker-blommor.*
+*De ornerade fasaden med klassiska reliefer.*
+
+brutto
+Totalbelopp innan avdrag av skatter och avgifter.
+
+gross
+före skatt, totalbelopp, före avdrag, preliminärt, total
+
+*Hans bruttolön var betydligt högre än nettot.*
+*Företagets bruttoomsättning dubblades på ett år.*
+*Bruttovinsten minskade på grund av ökade kostnader.*
+
+evaporera
+Förånga, avdunsta eller försvinna genom förångning.
+
+evaporate
+avdunsta, förånga, dunsta bort, försvinna, upptorka
+
+*Vattnet evaporerade snabbt i den heta solen.*
+*Hans entusiasm evaporerade efter första misslyckandet.*
+*Parfymen evaporerade från den öppna flaskan.*
+
+tillfalla
+Tilldelas eller tillkomma någon enligt lag eller sedvänja.
+
+
+tilldelas, ärva, erhålla, komma till del, få
+
+*Arvet tillföll den äldsta sonen enligt testamentet.*
+*Segern tillföll det lag som tränat hårdast.*
+*Äran att hålla tal tillföll den äldsta familjemedlemmen.*
+
+relä
+Elektrisk strömbrytare som styrs av en annan elektrisk krets.
+
+relay
+strömbrytare, omkopplare, elektrisk koppling, magnetisk brytare, växel
+
+*Reläet aktiverades när strömmen översteg gränsvärdet.*
+*Tekniker bytte det defekta reläet i kontrollarummet.*
+*Det elektromagnetiska reläet fungerade som en säkerhetsbrytare.*
+
+varest
+Där, på vilket ställe eller var som helst.
+
+
+där, var, på vilket ställe, vart, varhelst
+
+*Varest du än befinner dig, kommer jag att hitta dig.*
+*Han visste inte varest han skulle söka hjälp.*
+*Varest mötet skulle hållas var ännu obestämt.*
+
+pistong
+Kolv som rör sig fram och tillbaka i en cylinder.
+
+piston
+kolv, cylinder, kolvstång, motor, maskinkomponent
+
+*Pistong:en rörde sig smidigt i cylindern.*
+*Motorn hade sex pistonger av högsta kvalitet.*
+*Defekta pistonger orsakade motorhaveri.*
+
+drägg
+Bottensats, sediment eller slam som samlas i botten.
+
+
+bottensats, slam, sediment, avlagringar, rest
+
+*I vinfatet hade drägg samlats under lagringen.*
+*Drägg:en i kaffepannan smakade bittert.*
+*Floden förde med sig drägg från de övre delarna.*
+
+signera
+Skriva under, underteckna eller sätta sin namnteckning.
+
+sign
+skriva under, underteckna, namnteckna, sätta namnet, underskrifta
+
+*Presidenten signerade det viktiga avtalet.*
+*Konstnären signerade sina målningar i hörnet.*
+*Alla parter måste signera kontraktet för att det ska gälla.*
+
+girig
+Snål, havlysten eller som har stor lust efter rikedomar.
+
+greedy
+snål, havlysten, begärlig, självisk, girigt
+
+*Den girige köpmannen vägrade sänka priserna.*
+*Hans giriga blick förrådde intresset för pengarna.*
+*Som girig samlare köpte han alla tillgängliga exemplar.*
+
+förtörnad
+Kränkt, sårad eller djupt förargrad.
+
+
+kränkt, sårad, förnärmad, upprörd, ilsken
+
+*Han blev förtörnad över den orättvisa behandlingen.*
+*Den förtörnade kunden lämnade butiken utan att köpa.*
+*Hon var förtörnad över att inte bli inbjuden.*
+
+formsak
+Formell angelägenhet utan verklig betydelse, regelfråga.
+
+
+formalitet, regelfråga, tom form, rutinfråga, formell handling
+
+*Att godkänna förslaget var bara en formsak.*
+*Presidenten behandlade ceremonin som en ren formsak.*
+*För honom var valresultatet redan en avgjord formsak.*
+
+överreklamerad
+Prisad mer än vad som är motiverat, överskattad.
+
+overhyped
+överskattad, övervärderad, överdriven, överprisa, överskattar
+
+*Filmen var överreklamerad och helt misslyckad.*
+*Restaurangen var överreklamerad enligt turistguiden.*
+*Det överreklamerade produkten höll inte vad den lovade.*
+
+åma
+Göra sig till, skryta eller stoltsera med något.
+
+
+göra sig till, stoltsera, skryta, visa sig, ståta
+
+*Hon åmade sig över sina nya dyra kläder.*
+*Han åmade sig ständigt över sina framgångar.*
+*Det var typiskt för honom att åma sig inför gäster.*
+
+eolisk
+Som rör sig genom eller har att göra med vindens kraft.
+
+aeolian
+vindburen, vindpåverkad, vinddriven, vindens, luftburen
+
+*De eoliska klippformationerna skapades av tusenårig vindnötning.*
+*Musikern imponerades av det eoliska harpofonens toner.*
+*Eolisk erosion formade det spektakulära klipplandskapet.*
+
+honoris causa
+För hederns skull, hedersbetygelse utan examination.
+
+honoris causa
+hedershalber, för hederns skull, äres halber, hedersbetygelse, utan examen
+
+*Professorn erhöll sin doktorsgrad honoris causa.*
+*Universitetet utnämnde filantropen till hedersdoktor honoris causa.*
+*Den berömda författaren mottog titeln honoris causa.*
