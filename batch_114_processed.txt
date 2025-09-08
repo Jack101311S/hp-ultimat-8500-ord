@@ -1,0 +1,162 @@
+BATCH 114: ORD 2261-2280
+
+bevista
+Närvara vid, vara present eller delta i en händelse.
+
+*Familjen bevistade ceremonin i full samling.*
+*Hon bevistade föreläsningen trots sjukdom.*
+*Få dignitärer bevistade begravningen.*
+
+inpyrd
+Genomdränkt, fullständigt mättad eller genomsyrad.
+
+*Träet var inpyrt av regn efter stormen.*
+*Hans kläder var inpyrda av rök från branden.*
+*Marken var inpyrd av kemikalier från fabriken.*
+
+anemisk
+Blodfattig, med brist på röda blodkroppar eller blekfet.
+
+anemic
+blodfattig, blek, svag, kraftlös, anemic
+
+*Den anemiska patienten behövde järntillskott.*
+*Hans anemiska utseende oroade läkaren.*
+*Den anemiska prestationen besvikrade fans.*
+
+stötvis
+Med korta intervaller, ryckigt eller då och då.
+
+*Vattnet kom stötvis från den trasiga kranen.*
+*Han andades stötvis efter ansträngningen.*
+*Arbetet gick framåt stötvis på grund av problemen.*
+
+autopsi
+Obduktion, läkarundersökning av avliden kropp.
+
+autopsy
+obduktion, liköppning, rättsmedicinsk undersökning, post mortem, dissekering
+
+*Rättsmedicinarn utförde autopsi för att fastställa dödsorsaken.*
+*Autopsin visade inga tecken på våld.*
+*Familjen vägrade tillåta autopsi av religiösa skäl.*
+
+bålverk
+Försvarsverk, stark stödjande struktur eller skydd.
+
+*Fästningens bålverk höll stånda angreppet.*
+*Hon var ett bålverk av styrka för familjen.*
+*Demokratin var samhällets bålverk mot tyranni.*
+
+enahanda
+Enformig, likartad eller monoton karaktär.
+
+*Hans enahanda arbete tröttade ut honom.*
+*Den enahanda dieten blev snart långtråkig.*
+*Landskapets enahanda utseende gjorde resan tråkig.*
+
+misströsta
+Tappa hopp, se mörkt på framtiden eller bli pessimistisk.
+
+*Efter nederlaget började laget misströsta.*
+*Hon misströstade om sina chanser att få jobbet.*
+*Det är lätt att misströsta i svåra tider.*
+
+proselyt
+Nyomvänd religiös person eller ny anhängare av en tro.
+
+*Den nyzälande proselytens iver imponerade på alla.*
+*Missionären fick flera proselyter under sin vistelse.*
+*Som proselyt var han ivrigare än de gamla medlemmarna.*
+
+omstörtande
+Revolutionerande, som vänder upp och ner på etablerad ordning.
+
+*Den omstörtande upptäckten förändrade hela vetenskapen.*
+*Hans omstörtande idéer chockade kollegorna.*
+*Den omstörtande teknologin förvandlade industrin.*
+
+applikation
+Praktisk tillämpning eller användning av teorier.
+
+application
+tillämpning, användning, implementering, praktik, applikationer
+
+*Teorins applikation i praktiken var komplicerad.*
+*Smartphone-applikationen blev mycket populär.*
+*Forskningens medicinska applikationer var lovande.*
+
+census
+Officiell folkräkning eller inventering av befolkning.
+
+census
+folkräkning, befolknings inventering, statistisk undersökning, folkräknen, demografisk
+
+*Nästa census skulle genomföras 2020.*
+*Census visade att befolkningen hade minskat.*
+*Alla medborgare var skyldiga att delta i census.*
+
+barbarisk
+Ociviliserad, rå eller brutal i sitt beteende.
+
+barbaric
+ociviliserad, brutal, rå, primitiv, grym
+
+*Den barbariska behandlingen av fångar fördömdes.*
+*Hans barbariska sätt att äta chockerade gästerna.*
+*Barbariska seder förbjöds av det nya styret.*
+
+överlägga
+Diskutera, rådgöra eller sammanträda för att fatta beslut.
+
+*Styrelsen överlägger om företagets framtid.*
+*De överlägger hela natten innan de fattade beslutet.*
+*Domstolen överlägger innan domen meddelas.*
+
+grums
+Bottensats, sediment eller det som sjunker till botten.
+
+*Grumseti kaffe gjorde sista klunken obehaglig.*
+*Tanken hade mycket grums på bottenen.*
+*Efter destilleringen återstod bara grums.*
+
+kortsynt
+Oförutseende, som tänker bara på kort sikt.
+
+*Den kortsynta politiken ledde till problem senare.*
+*Hans kortsynta investeringar kostade honom dyrt.*
+*Det kortsynta beslutet ignorerade långsiktiga konsekvenser.*
+
+kreation
+Konstverks eller modeskapelse, särskilt inom haute couture.
+
+creation
+skapelse, designerverk, konstnärsverk, modeskapelse, kreation
+
+*Designerns senaste kreation visades på modeveckan.*
+*Kockrens kulinariska kreation var ett mästerverk.*
+*Konstarkels kreation såldes för miljoner.*
+
+antecedentia
+Meritlista, kvalifikationer eller tidigare prestationer.
+
+*Hans antecedentia var imponerande för jobbet.*
+*Utan rätta antecedentia var hon inte kvalificerad.*
+*Antecedentian visade tydligt att han var rätt person.*
+
+läckergom
+Person som har fina och krävande smaker, gourmand.
+
+*Som läckergom åt han bara på de bästa restaurangerna.*
+*Läckerge kömens skafferi var fyllt med delikatess.*
+*Hon var en känd läckergom i stadens matsocitet.*
+
+diametral
+Rakt motsatt, helt different eller på direkt motsatt sätt.
+
+diametrical
+rakt motsatt, helt different, absolut olika, kontra, konfronterad
+
+*Deras åsikter var diametralt motsatta.*
+*Den diametrala skillnaden gjorde samarbete omöjligt.*
+*Hans diametrala personlighets förändring förvånade alla.*
